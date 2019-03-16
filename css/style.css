@@ -1,0 +1,46 @@
+button{
+  margin:2px;
+}
+#b1{
+  height:200px;
+  width:200px;
+  background:green;
+  border:2px;
+  border-radius:400px 0px 0px 0px;
+}
+#b2{
+  height:200px;
+  width:200px;
+  background:red;
+  border:2px;
+  border-radius:0px 400px 0px 0px;
+}
+#b3{
+  height:200px;
+  width:200px;
+  background:orange;
+  border:2px;
+  border-radius:0px 0px 0px 400px;
+}
+#b4{
+  height:200px;
+  width:200px;
+  background:yellow;
+  border:2px;
+  border-radius:0px 0px 400px 0px;
+}
+#count{
+  font-size:40px;
+  font-family:Comic Sans MS;
+  color:pink;
+  //background:black;
+  font-weight: bold;
+text-shadow: 2px 2px 15px blue;
+}
+body{
+  background:rgb(200,200,250);  
+  font-family:Comic Sans MS;
+}
+#top{
+  background:rgb(100,100,50);
+}
